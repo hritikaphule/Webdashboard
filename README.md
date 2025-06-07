@@ -20,7 +20,7 @@ To run this project, you will need a modern web browser and a local server setup
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/JayaKumar-pypro/WebDashboards.git
+    git clone https://github.com/hritikaphule/Webdashboard.git
     cd WebDashboards
     ```
 
@@ -58,10 +58,6 @@ We welcome contributions from the community. Please follow these steps to contri
 3. **Commit your changes** (`git commit -m 'Add some feature'`)
 4. **Push to the branch** (`git push origin feature/YourFeature`)
 5. **Open a pull request**
-
-## License
-
-This project is licensed under the [Jayakumar_PyPro] - see the [LICENSE](LICENSE) file for details.
 
 *Note: This software is licensed for non-commercial use only.*
 
